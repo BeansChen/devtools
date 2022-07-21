@@ -7,4 +7,7 @@
 
 var fn = function fn() {
   return 1;
-};
+}; // 新的API
+
+
+var m = Symbol('1');
